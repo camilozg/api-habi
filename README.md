@@ -32,7 +32,7 @@ Este servicio implica una relación de muchos a muchos entre usuarios y propieda
 
 * **Diagrama entidad relación:**
 
-![alt text](/segundo-servicio/ERD.jpg)
+![alt text](/ERD.jpg)
 
 * **Código SQL para las nuevas tablas:**
 
